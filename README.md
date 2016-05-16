@@ -5,7 +5,7 @@ Home: https://github.com/jakirkham/splauncher
 
 Package license: BSD
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: A simple subprocess launcher with optional DRMAA support.
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/splauncher-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/splauncher-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/splauncher-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/splauncher-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/splauncher-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/splauncher-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/splauncher/badges/version.svg)](https://anaconda.org/conda-forge/splauncher)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/splauncher/badges/downloads.svg)](https://anaconda.org/conda-forge/splauncher)
 
 
 Updating splauncher-feedstock
