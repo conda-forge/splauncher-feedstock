@@ -29,6 +29,8 @@ about:
   home: https://github.com/jakirkham/splauncher
   license: BSD 3-Clause
   summary: A simple subprocess launcher with optional DRMAA support.
+  doc_url: https://splauncher.readthedocs.io/
+  dev_url: https://github.com/jakirkham/splauncher
 
 extra:
   recipe-maintainers:
