@@ -27,7 +27,7 @@ test:
 
 about:
   home: https://github.com/jakirkham/splauncher
-  license: BSD
+  license: BSD 3-Clause
   summary: 'A simple subprocess launcher with optional DRMAA support.'
 
 extra:
