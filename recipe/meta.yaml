@@ -6,7 +6,7 @@ package:
 
 source:
   fn: splauncher-{{ version }}.tar.gz
-  url: https://pypi.python.org/packages/source/s/splauncher/splauncher-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/s/splauncher/splauncher-{{ version }}.tar.gz
   md5: c50931acef7d3a218b32126f17f3afab
 
 build:
