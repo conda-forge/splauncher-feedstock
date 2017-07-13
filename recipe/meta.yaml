@@ -1,4 +1,4 @@
-{% set version = "0.0.9" %}
+{% set version = "0.0.10" %}
 
 package:
   name: splauncher
@@ -7,10 +7,10 @@ package:
 source:
   fn: splauncher-{{ version }}.tar.gz
   url: https://pypi.org/packages/source/s/splauncher/splauncher-{{ version }}.tar.gz
-  sha256: 03ad8f51cf5199022400369cccc4c8742d103c1b6a91b5a2ab4d05ce1110f40c
+  sha256: 8019ab1dda0470d4f74422ce713fe3cc44d76618f5706aaa1bd9b553d72b3dea
 
 build:
-  number: 1
+  number: 0
   script: python setup.py install --single-version-externally-managed --record=record.txt
 
 requirements:
@@ -28,6 +28,7 @@ test:
 about:
   home: https://github.com/jakirkham/splauncher
   license: BSD 3-Clause
+  license_file: LICENSE.txt
   summary: A simple subprocess launcher with optional DRMAA support.
   doc_url: https://splauncher.readthedocs.io/
   dev_url: https://github.com/jakirkham/splauncher
