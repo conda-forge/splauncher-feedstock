@@ -3,7 +3,7 @@ About splauncher
 
 Home: https://github.com/jakirkham/splauncher
 
-Package license: BSD
+Package license: BSD 3-Clause
 
 Feedstock license: BSD 3-Clause
 
